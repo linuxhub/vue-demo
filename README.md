@@ -30,6 +30,25 @@ ls dist/*
 ## 本项目 初始化 过程
 ```bash
 
+# 环境
+$ node -v
+v12.16.1
+
+$ npm -v 
+6.14.2
+
+$ yarn -v
+1.13.0
+
+$ vue --version
+@vue/cli 4.2.3
+
+# 全局 安装 vue
+$ yarn global add @vue/cli 
+$ yarn global add @vue/cli-init
+
+
+# 创建 vue 项目
 $ vue init webpack vue-demo
 
 Project name my-project               --项目的名称，直接默认回车
