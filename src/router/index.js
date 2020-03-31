@@ -2,7 +2,7 @@ import Vue from 'vue'            //引入Vue
 import Router from 'vue-router'  //引入vue-router
 
 import HelloWorld from '@/components/HelloWorld'  //引入根目录下的HelloWorld.vue组件
-import LinuxHub from '@/components/Linuxhub'  //引入根目录下的Linuxhub.vue组件
+import LinuxHub from '@/components/LinuxHub'  //引入根目录下的Linuxhub.vue组件
  
 Vue.use(Router)  //Vue全局使用Router
 
